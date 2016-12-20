@@ -10,9 +10,6 @@
 
 - **混合app的开发方式是未来的主流趋势**
 
-
-
-
 ## 移动端开发有哪些框架?
 - Ionic
 - Html5+
@@ -21,6 +18,7 @@
 - ...
 - Jquery Mobile
 - React Native
+
 ***
 
 ### **Html5+**
@@ -32,6 +30,7 @@
 
 #### 缺点：
 - 打包比较麻烦
+
 ***
 
 ### **React Native**
@@ -52,6 +51,7 @@ React Native里面没有webview，这货不是Hybrid app，里面执行JS是用�
 - 可以通过更新远端JS，直接更新app。
 #### 缺点：
 - 由于最外层是React，初次学习成本高，不像往常的Hybird方案，只要多学几个JS API就可以开始干活了。
+
 ***
 
 ### **AppCan**
@@ -75,6 +75,7 @@ AppCan.cn开发平台是基于HTML5技术的跨平台移动应用快速开发一
 - 部分系统无法使用IDE进行调试
 - 只能在服务器端发布，无法在本地发布
 - IOS发布，需要将证书上传至服务器
+
 ***
 
 ### **Framework7**
@@ -83,7 +84,9 @@ AppCan.cn开发平台是基于HTML5技术的跨平台移动应用快速开发一
 Framework7 是一款免费开源的移动web开发框架(类似的知名框架有Jquery Mobile,sencha),用以开发IOS7风格、体验的混合移动应用和web应用。如果你需要，它还是一款绝好的移动应用原型框架，用以展示应用的功能细节。
 Framework7框架的主要目的是使得开发者能够简单、快速的使用HTML,Javascript,CSS开发IOS风格的webapp和混合本地应用。
 - Framework7并不兼容所有平台，只专注于带给用户最好的IOS7体验。
+
 ***
+
 ### **Ionic**
 - [ionic官网](http://ionicframework.com/)
 - [ionic中文网](http://www.ionic.wang/)
@@ -104,6 +107,7 @@ IONIC 是目前**最有潜力**的一款 HTML5 手机应用开发框架。通过
 - 提供了强大的命令行工具。
 
 - **注**： 由于 ionic 使用了 HTML5 和 CSS3 的一些新规范，所以要求 **iOS7+** / **Android4.1+**。 在低于这些版本的手机上使用 ionic 开发的应用，有时会发生莫名其妙的问题。
+
 ***
 
 ## IT工程师必看网站
