@@ -1,5 +1,8 @@
 # Ionic框架主要技术介绍
 
+
+
+
 ## Cordova介绍
 [Cordova官网](https://cordova.apache.org/)
 
@@ -47,6 +50,9 @@ Angular最为核心的是：MVVM、模块化、自动化双向数据绑定、语
 ![](./img/ionic2.bmp)
 
 
+- [ionic官网](http://ionicframework.com/)
+- [ionic中文网](http://www.ionic.wang/)
+
 
 # **开发环境搭建**
 
@@ -75,14 +81,15 @@ $ npm install -g ionic
     $ ionic start myApp sidemenu
     $ ionic start myApp  //默认是tabs样式。
 ```
-
+![](./img/myappBlank.bmp)
 ## **添加项目平台**
 ``` shell
     $ ionic platform add android
 ```
-
+![](./img/myappBlank2.bmp)
 ## **打包**
 ``` shell
     $ ionic build  android
 ```
+![](./img/myappBlank3.bmp)
 
